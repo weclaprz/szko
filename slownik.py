@@ -15,4 +15,7 @@ print(slownik)
 # print(klucz)
 # print(wartos)
 j=1
+fjfkjsdf = 123
+
+
 
