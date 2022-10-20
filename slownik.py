@@ -14,3 +14,4 @@ print(slownik)
 # klucz,wartos = slownik.get["wiek"]
 # print(klucz)
 # print(wartos)
+j=1
