@@ -10,18 +10,24 @@ coToZaTyp = coToZaTyp + (1,2,3,4,5,6,7,8,9,0,1,2,3,4,5)
 
 
 
-krotka ='aa','bb','cc','dd','ee'
-(zmA,*zmB,zmC) = krotka
-print (zmB)
-lista = list(zmB)
-print(type(lista))
-lista.append("test") # dodawanie na końcu
-print(lista)
-lista.pop(1) # usuwanie w indexie lub pop() ostatnia
-print(lista)
-lista.insert(0,'Tomek') # dodawanie w indexie
-print(lista)
-lista.remove('test') # usuwanie
-print(lista)
-lista.extend([12,12,34])
-print(lista)
+# krotka ='aa','bb','cc','dd','ee'
+# (zmA,*zmB,zmC) = krotka
+# print (zmB)
+# lista = list(zmB)
+# print(type(lista))
+# lista.append("test") # dodawanie na końcu
+# print(lista)
+# lista.pop(1) # usuwanie w indexie lub pop() ostatnia
+# print(lista)
+# lista.insert(0,'Tomek') # dodawanie w indexie
+# print(lista)
+# lista.remove('test') # usuwanie
+# print(lista)
+# lista.extend([12,12,34])
+# print(lista)
+
+
+numery =[1,2,3]
+cyfry = numery
+numery =[11,22,33]
+print(cyfry)
