@@ -15,4 +15,4 @@ print(slownik)
 # print(klucz)
 # print(wartos)
 j=1
-Test =2
+
