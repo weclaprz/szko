@@ -27,7 +27,7 @@ coToZaTyp = coToZaTyp + (1,2,3,4,5,6,7,8,9,0,1,2,3,4,5)
 # print(lista)
 
 
-numery =[1,2,3]
-cyfry = numery
-numery =[11,22,33]
-print(cyfry)
+# numery =[1,2,3]
+# cyfry = numery
+# numery =[11,22,33]
+# print(cyfry)
