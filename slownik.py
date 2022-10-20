@@ -11,3 +11,6 @@ slownik["wiek"] = 40
 slownik["znakZ"] = "Ryby"
 slownik.pop('wiek')
 print(slownik)
+# klucz,wartos = slownik.get["wiek"]
+# print(klucz)
+# print(wartos)
